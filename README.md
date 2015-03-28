@@ -18,7 +18,7 @@ into this:
 ```
 ## FDTD_1D.m
 
-This was the second assignment. This works on the same principle as the first assignment, except you change the Stability Criterian. To manipulate the stability of the waves, you change dt to be within `0` and `1`.
+This was the second assignment. This works on the same principle as the first assignment, except you change the Stability Criterian. To manipulate the stability of the waves, you change `dt` to be within `0` and `1`.
 
 ```matlab
 dx=lambda/20.0; %space increment of 1-D lattice
